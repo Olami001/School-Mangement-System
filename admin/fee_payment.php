@@ -141,7 +141,7 @@ error:function (){}
                 <div class="panel panel-info">
                     <div class="panel-heading">
                                 <strong> <i class="fa fa-newspaper-o"> </i> Student Payment</strong>
-                               <a href="addstudent.php"><strong style="float: right;"> <i class="fa fa-gear"> </i> Manage Student Fee </strong> </a></div>
+                               <a href="manageFee.php"><strong style="float: right;"> <i class="fa fa-gear"> </i> Manage Student Fee </strong> </a></div>
                     <div class="panel-body">
                        <div class="col-md-5 col-md-offset-1">
                                 <form action="" method="post">
